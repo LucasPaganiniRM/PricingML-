@@ -1,0 +1,16 @@
+[project]
+name = "pricingml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib==3.11.1",
+    "nbformat>=5.11.1",
+    "numpy==2.5.2",
+    "pandas==3.0.5",
+    "plotly>=7.0.0",
+    "pygam==0.12.0",
+    "seaborn==0.13.2",
+]
